@@ -11,7 +11,7 @@ https://ipl-score-prediction-2021-api.herokuapp.com/
 
 • A glimpse of the web app:
 
- ![GIF](readme_resources/)
+ 
  
  
  _**----- Important Note -----**_<br />
